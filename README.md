@@ -4,7 +4,7 @@ Make sure to replace the placeholder values like "YourName", "YourLinkedInProfil
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Daniel+!+%E2%9C%A8;Cybersecurity+%26+Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Daniel+!+%E2%9C%A8;Cybersecurity+%26+Data+Science+Enthusiast" alt="Typing SVG" />
   <h3>Undergraduate Student @ Kenyatta University | CS, IT & Advanced Mathematics</h3>
   <p><em>Passionate about securing digital landscapes and extracting actionable intelligence from data.</em></p>
 </div>
@@ -25,7 +25,7 @@ I am a 21-year-old undergraduate student at **Kenyatta University**, blending my
 
 I am currently working on projects that leverage data analytics and prioritize security:
 
-- 🌸 **Bloom (Facial Analysis & ML)**: Developing the core machine learning and data pipelines for a gamified skincare mobile app, focusing on secure facial scanning, image processing, and data privacy.
+- 🌸 **Bloom (Facial Analysis & ML)**: Developing the core machine learning and data pipelines for a  skincare mobile app, focusing on secure facial scanning, image processing, and data privacy.
 - 🛡️ **Secure E-Commerce Platform**: Engineering a scalable JavaScript marketplace with a heavy emphasis on OWASP best practices, secure payment gateways, data encryption, and analytics.
 - 📊 **Real-Time Market Webscraper**: Building high-performance data ingestion pipelines and algorithms to scrape, clean, and analyze real-time pricing data across gift card marketplaces.
 
